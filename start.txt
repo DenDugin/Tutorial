@@ -1,3 +1,13 @@
 Test Commit
 
+<<<<<<< HEAD
 Coomit 3333 !!! 
+=======
+Coomit 2!!! 
+
+
+Fix Bugs!
+>>>>>>> FixBug
+
+
+Commit after fixing!
