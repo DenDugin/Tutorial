@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 start2
 s
 s
 s
 s
+=======
+start2 !!!!!!!
+>>>>>>> f5eb1daacfbc4288c1ae2d37ccfe52d9f8288037
 
