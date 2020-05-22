@@ -1,7 +1,4 @@
+start1
 start2
-s
-s
-s
-s
-start2 !!!!!!!
+start3 !!!!!!!
 
