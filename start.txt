@@ -1,5 +1,6 @@
-Test Commit
+Test Commit+++
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Coomit 2!!! 
@@ -11,3 +12,20 @@ Coomit 3333 !!!
 =======
 Coomit 3333 !!! 
 >>>>>>> First commmit in TestBr
+=======
+Coomit 3333 !!! 
+=======
+Coomit 2!!! 
+
+
+Fix Bugs!
+>>>>>>> FixBug
+
+
+Commit after fixing!
+
+
+Fetch
+
+test Rebase!
+>>>>>>> TestBr
