@@ -1,4 +1,4 @@
-Test Commit
+Test Commit+++
 
 <<<<<<< HEAD
 Coomit 3333 !!! 
@@ -15,4 +15,4 @@ Commit after fixing!
 
 Fetch
 
-test Rebase
+test Rebase!
